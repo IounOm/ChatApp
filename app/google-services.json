@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "163288365516",
+    "project_id": "chatapp-b85df",
+    "storage_bucket": "chatapp-b85df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163288365516:android:db9e4620a5fc736dc50569",
+        "android_client_info": {
+          "package_name": "com.iounom.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163288365516-l8l6dlttafr3et16a60cgjggr3bp05m8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHm93VRyFyPSYc1a1ZciDPg9WBwXHvE74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163288365516-l8l6dlttafr3et16a60cgjggr3bp05m8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
